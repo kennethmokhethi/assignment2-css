@@ -1,0 +1,14 @@
+*{
+    background-color: silver;
+}
+
+a{
+    color: red;
+    font-family:fantasy;
+    font-size: large;
+}
+
+img{
+    border-radius: 1%;
+    border: solid;
+}
