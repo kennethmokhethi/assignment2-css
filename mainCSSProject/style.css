@@ -1,0 +1,150 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.topSecContent{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: #1F2937;
+    color: white;
+}
+.maintext{
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #F9FAF8;
+}
+
+.headerLink a{
+    float: right;
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 20px 16px;
+}
+#logoStyle{
+    font-size: 24px;
+    float: left;
+    color: #F9FAF8;
+    padding-left: 13px;
+}
+
+.signUpSection{
+    padding-top: 15%; 
+}
+
+.signuptext{
+    width: 55%;  
+}
+
+.signuptext p{
+    font-size: 18px;
+}
+
+.signuptext button{
+    background-color: #3882F6;
+    color: white;
+    font-size: 18px;
+    border-radius: 19%;
+    width: 25%;
+    height: 30px;
+    margin-top: 3%;
+}
+.imageSection{
+   width: 37%;
+   background-color: #62656b;
+   height: 140px;
+   
+}
+
+.imageSection p{
+    text-align: center; 
+    padding-top: 15%;
+    font-size: 18px;
+}
+
+.signuptext , .imageSection, .containerForSubtext ,.calltext,.signUpBut{
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+
+.randomInfoSec{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.containerForSubtext{
+    width: 20%;
+}
+.sqaurediv{
+    border: 3px solid #3882F6;
+    border-radius: 5%;
+    width: 50%;
+    height: 100px;
+    padding-left: 40%;
+    
+}
+.containerForSubtext p{
+    width: 90%;
+}
+
+.maintext2{
+    padding:3%;
+    font-weight: bolder;
+}
+
+.quoteSec{
+    background-color: #E5E7EB;
+}
+.quoteSec{
+   
+    margin-top: 3%;
+
+}
+.quoteInfo{
+    width: 60%;
+    padding-left: 20%;  
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    
+}
+
+.quoteAuthoer p{
+    padding-left: 77%;
+}
+
+.callSect{
+    margin-top: 3%;
+    background-color: #3882F6;
+    width: 60%;
+    margin-left: 23%;
+    color: white;
+    border-radius: 5%;
+    height: 100px;
+    
+}
+
+.signUpBut button{
+    font-size: 18px;
+    background-color: #3882F6;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7%;
+    width: 170%;
+    height: 30px;
+   
+}
+
+footer{
+    margin-top: 3%;
+    background-color: #1F2937;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    text-align: center
+}
